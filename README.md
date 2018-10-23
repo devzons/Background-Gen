@@ -377,3 +377,16 @@ export default function add() {
 import { add } from './add';
 // or
 import add from './add';
+
+## Git Snippets
+
+git status
+git add .
+git status
+git commit -m 'initial commit'
+git push
+
+git pull
+git branch
+git branch afeature
+git checkout afeature
